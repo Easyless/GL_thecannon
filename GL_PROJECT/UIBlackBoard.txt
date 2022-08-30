@@ -1,0 +1,2 @@
+"cannon_power" : 대포 파워
+"target_count" : 남은 타겟 갯수
